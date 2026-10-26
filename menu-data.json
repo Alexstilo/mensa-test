@@ -1,0 +1,173 @@
+{
+  "season": "invernale",
+  "title": "Menù mensa invernale",
+  "schoolYear": "2026/2027",
+  "startDate": "2026-11-02",
+  "cycleWeeks": 4,
+  "weekAnchor": "2026-11-02",
+  "sourcePdf": "menu.pdf",
+  "audience": "Scuola dell'Infanzia e Scuola Primaria",
+  "notes": [
+    "* Voce prevista per la Scuola dell'Infanzia.",
+    "La frutta e la verdura possono subire variazioni in base alla stagionalità.",
+    "Una volta al mese un frutto viene sostituito con lo yogurt.",
+    "Formaggio a rotazione: Asiago, Mozzarella, Formaggio spalmabile, Primosale."
+  ],
+  "days": [
+    "Lunedì",
+    "Martedì",
+    "Mercoledì",
+    "Giovedì",
+    "Venerdì"
+  ],
+  "menu": [
+    [
+      {
+        "primo": "PASTA POMODORO E TONNO",
+        "secondo": "FORMAGGIO 1/2 PZ.",
+        "contorno": "VERDURE CRUDE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "RISO E PREZZEMOLO",
+        "secondo": "BOCCONCINI DI POLLO AL LIMONE",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "PASTA PESTO E FAGIOLINI",
+        "secondo": "PLATESSA PANATA",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "SUCCO D'ARANCIA"
+      },
+      {
+        "primo": "PIADINA PROSCIUTTO E FORMAGGIO",
+        "secondo": null,
+        "contorno": "INSALATA",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "PASTA ALLO ZAFFERANO",
+        "secondo": "UOVA STRAPAZZATE",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      }
+    ],
+    [
+      {
+        "primo": "PIZZA MARGHERITA",
+        "secondo": "PROSCIUTTO COTTO 1/2 PZ.",
+        "contorno": "VERDURE CRUDE",
+        "pane": "GRISSINI",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "PASTA AURORA (POMODORO E BESCIAMELLA)",
+        "secondo": "MERLUZZO DORATO",
+        "contorno": "VERDURE CRUDE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "RISOTTO ALLA PARMIGIANA",
+        "secondo": "ARROSTO DI LONZA / COTOLETTA DI LONZA PANATA",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "PASTINA IN BRODO",
+        "secondo": "POLLO DORATO",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "CREMA DI LEGUMI CON PASTINA* / CROSTINI",
+        "secondo": "FORMAGGIO 1/2 PZ.",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      }
+    ],
+    [
+      {
+        "primo": "PASTA AL RAGÙ",
+        "secondo": "FORMAGGIO 1/2 PZ.",
+        "contorno": "INSALATA",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "PASTA AGLI AROMI",
+        "secondo": "BOCCONCINI DI POLLO AL FORNO",
+        "contorno": "PATATE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "POLENTA",
+        "secondo": "SPEZZATINO DI MANZO",
+        "contorno": "CAROTE JULIENNE",
+        "pane": "PANE",
+        "dolce": "SUCCO D'ARANCIA"
+      },
+      {
+        "primo": "PASTA POMODORO E LEGUMI",
+        "secondo": "FRITTATA 1/2 PZ.",
+        "contorno": "VERDURE CRUDE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "MINESTRA DI VERDURE CON RISO",
+        "secondo": "MERLUZZO PANATO",
+        "contorno": "PATATE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      }
+    ],
+    [
+      {
+        "primo": "PASTA AURORA (POMODORO E BESCIAMELLA)",
+        "secondo": "FORMAGGIO 1/2 PZ.",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "RISOTTO AL POMODORO E FAGIOLI",
+        "secondo": "POLPETTINE DI MANZO IN UMIDO",
+        "contorno": "PATATE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "VELLUTATA DI ZUCCA CON CROSTINI",
+        "secondo": "PISELLI 1/2 PZ.",
+        "contorno": "INSALATA",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "PASTA AL SUGO DI SALSICCIA",
+        "secondo": "COSCIA DI POLLO AL FORNO",
+        "contorno": "VERDURE COTTE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      },
+      {
+        "primo": "CREMA DI PATATE CON PASTA",
+        "secondo": "PLATESSA DORATA",
+        "contorno": "VERDURE CRUDE",
+        "pane": "PANE",
+        "dolce": "FRUTTA DI STAGIONE"
+      }
+    ]
+  ]
+}
